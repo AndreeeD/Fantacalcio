@@ -1,0 +1,24 @@
+1	AC Picchia	56	0
+1	AS Falto	68	3
+1	Scarsenal	59	3
+1	Birrareal	55.5	1
+1	Hertha Vernello	62.5	3
+1	Masterchef United	60.5	0
+1	Real Maspritz	51	0
+1	AC Denti	56	1
+2	AC Picchia	106	0
+2	AS Falto	134.5	6
+2	Scarsenal	107	4
+2	Birrareal	118.5	1
+2	Hertha Vernello	115	4
+2	Masterchef United	122.5	3
+2	Real Maspritz	107	0
+2	AC Denti	125	4
+3	AC Picchia	146.5	0
+3	AS Falto	183	6
+3	Scarsenal	180.5	7
+3	Birrareal	179.5	4
+3	Hertha Vernello	175.5	7
+3	Masterchef United	187	4
+3	Real Maspritz	156.5	0
+3	AC Denti	185	5

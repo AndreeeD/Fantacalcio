@@ -1,0 +1,145 @@
+N397	AC Denti	Foto_Fantacalcio/allan.jpg	MARQUES	ALLAN	28	Centrocampista	2	0	0	0	0	0	0	0	6,75	6,75
+S267	AC Denti	Foto_Fantacalcio/antenucci.jpg	MIRKO	ANTENUCCI	22	Attaccante	2	0	0	0	0	0	0	1	6,5	8
+A847	AC Denti	Foto_Fantacalcio/Caldara.jpg	MATTIA	CALDARA	28	Difensore	1	0	0	0	0	0	0	0	6,5	6,5
+I332	AC Denti	Foto_Fantacalcio/candreva.jpg	ANDREA	CANDREVA	32	Centrocampista	2	1	1	0	0	0	0	0	6,25	6,5
+J697	AC Denti	Foto_Fantacalcio/cuadrado.jpg	JUAN	CUADRADO	31	Centrocampista	2	0	1	0	0	0	0	1	6,5	7,75
+I253	AC Denti	Foto_Fantacalcio/Ambrosio.jpg	DANILO	D'AMBROSIO	38	Difensore	2	0	0	0	0	0	0	0	5,5	5,5
+U996	AC Denti	Foto_Fantacalcio/DePaul.jpg	RODRIGO	DE PAUL	37	Centrocampista	2	0	0	0	0	0	0	0	6,25	6,25
+N392	AC Denti	Foto_Fantacalcio/Koulibaly.jpg	KALIDU	KOULIBALY	29	Difensore	2	0	1	0	0	0	0	0	6	5,75
+U090	AC Denti	Foto_Fantacalcio/lasagna.jpg	KEVIN	LASAGNA	36	Attaccante	2	0	0	0	0	0	0	0	5,75	5,75
+A015	AC Denti	Foto_Fantacalcio/Masiello.jpg	ANDREA	MASIELLO	27	Difensore	2	0	0	0	0	0	0	0	6	6
+B041	AC Denti	Foto_Fantacalcio/Mirante.png	ANTONIO	MIRANTE	37	Portiere	2	0	1	0	0	0	0	0	7	6,75
+R237	AC Denti	Foto_Fantacalcio/perotti.jpg	DIEGO	PEROTTI	37	Centrocampista	2	0	0	0	0	0	0	0	6,75	6,75
+A383	AC Denti	Foto_Fantacalcio/petagna.jpg	ANDREA	PETAGNA	23	Attaccante	2	0	0	0	0	0	0	0	6	6
+F309	AC Denti	Foto_Fantacalcio/Pezzella.jpg	GERMAN	PEZZELLA	38	Difensore	2	0	0	0	0	0	0	0	6	6
+S568	AC Denti	Foto_Fantacalcio/quagliarella.jpg	FABIO	QUAGLIARELLA	27	Attaccante	2	0	1	0	0	0	0	1	6,75	8
+N387	AC Denti	Foto_Fantacalcio/Reina.jpg	PEPE	REINA	33	Portiere	2	0	0	0	0	0	2	0	6,5	5,5
+R201	AC Denti	Foto_Fantacalcio/under.jpg	GENGIS	UNDER	22	Centrocampista	2	0	0	0	0	0	0	0	6	6
+U588	AC Denti	Foto_Fantacalcio/Widmer.jpg	SILVAN	WIDMER	24	Difensore	1	1	0	0	0	0	0	0	7	8
+L335	AC Picchia	Foto_Fantacalcio/anderson.jpg	FELIPE	ANDERSON	23	Centrocampista	1	0	0	0	0	0	0	0	6	6
+T706	AC Picchia	Foto_Fantacalcio/Ansaldi.jpg	CHRISTIAN	ANSALDI	33	Difensore	1	0	1	0	0	0	0	0	5,5	5
+I265	AC Picchia	Foto_Fantacalcio/brozovic.jpg	MARCELO	BROZOVIC	34	Centrocampista	1	0	0	0	0	0	0	0	6	6
+C489	AC Picchia	Foto_Fantacalcio/Ceccherini.jpg	FEDERICO	CECCHERINI	30	Difensore	1	0	0	0	0	0	0	0	7	7
+C889	AC Picchia	Foto_Fantacalcio/Cordaz.jpg	ALEX	CORDAZ	32	Portiere	2	0	0	0	0	0	0	0	6	6
+M350	AC Picchia	Foto_Fantacalcio/Donnarumma.png	GIANLUIGI	DONNARUMMA 	22	Portiere	2	0	0	0	0	0	3	0	6,75	5,25
+B645	AC Picchia	Foto_Fantacalcio/guilherme.jpg	COSTA	GUILHERME	33	Centrocampista	1	0	0	0	0	0	0	0	6	6
+R214	AC Picchia	Foto_Fantacalcio/Kolarov.jpg	ALEKSANDAR	KOLAROV	23	Difensore	2	0	0	0	0	0	0	0	6,25	6,25
+T478	AC Picchia	Foto_Fantacalcio/ljajic.jpg	ADEM	LJAJIC	30	Attaccante	2	2	0	0	0	0	0	2	7	11
+L188	AC Picchia	Foto_Fantacalcio/Marusic.jpg	ADAM	MARUSIC	26	Centrocampista	2	0	0	0	0	0	0	1	6,5	8
+I257	AC Picchia	Foto_Fantacalcio/Miranda.jpg	JOAO	MIRANDA	37	Difensore	2	0	0	0	0	0	0	0	6,5	6,5
+R467	AC Picchia	Foto_Fantacalcio/Nainggolan.jpg	RADJA	NAINGGOLAN	36	Centrocampista	1	1	0	0	0	0	0	0	6,5	7,5
+G245	AC Picchia	Foto_Fantacalcio/pandev.jpg	GORAN	PANDEV	24	Attaccante	2	0	0	0	0	0	0	0	6,75	6,75
+S536	AC Picchia	Foto_Fantacalcio/politano.jpg	MATTEO	POLITANO	35	Attaccante	2	0	0	0	0	0	0	0	6	6
+N142	AC Picchia	Foto_Fantacalcio/Rui.jpg	MARIO	RUI	32	Difensore	1	0	0	0	0	0	0	0	5,5	5,5
+M375	AC Picchia	Foto_Fantacalcio/suso.jpg	JESUS	SUSO	32	Centrocampista	2	2	0	0	0	0	0	1	7,25	9,75
+A695	AC Picchia	Foto_Fantacalcio/Toloi.png	RAFAEL	TOLOI	29	Difensore	2	0	0	0	0	0	0	0	5,5	5,5
+S608	AC Picchia	Foto_Fantacalcio/zapata.jpg	DUVAN	ZAPATA	28	Attaccante	1	0	0	0	0	0	0	0	6	6
+S032	AS Falto	Foto_Fantacalcio/Acerbi.jpg	FRANCESCO	ACERBI	37	Difensore	2	0	0	0	0	0	0	0	6,25	6,25
+S183	AS Falto	Foto_Fantacalcio/babacar.jpg	EL KOUMA	BABACAR	36	Attaccante	2	0	0	0	0	0	0	0	6,25	6,25
+T441	AS Falto	Foto_Fantacalcio/belotti.jpg	ANDREA	BELOTTI	28	Attaccante	2	0	0	0	0	0	0	1	6,5	8
+N406	AS Falto	Foto_Fantacalcio/callejon.jpg	JOSÉ	CALLEJON	25	Attaccante	2	0	0	0	0	0	0	0	6	6
+S509	AS Falto	Foto_Fantacalcio/Consigli.jpg	ANDREA	CONSIGLI	38	Portiere	2	0	0	0	0	0	4	0	6	4
+R464	AS Falto	Foto_Fantacalcio/florenzi.jpg	ALESSANDRO	FLORENZI	38	Centrocampista	1	0	1	0	0	0	0	0	5,5	5
+A788	AS Falto	Foto_Fantacalcio/Freuler.jpg	REMO	FREULER	26	Centrocampista	2	1	0	0	0	0	0	0	6,25	6,75
+N402	AS Falto	Foto_Fantacalcio/hamsik.jpg	MAREK	HAMSIK	26	Centrocampista	2	0	0	0	0	0	0	0	5,5	5,5
+I277	AS Falto	Foto_Fantacalcio/icardi.jpg	MAURO	ICARDI	30	Attaccante	2	0	0	0	0	0	0	2	6,75	9,75
+A177	AS Falto	Foto_Fantacalcio/ilicic.jpg	JOSIP	ILICIC	24	Centrocampista	1	0	0	0	0	0	0	0	5,5	5,5
+G235	AS Falto	Foto_Fantacalcio/laxalt.jpg	DIEGO	LAXALT	26	Centrocampista	2	0	1	0	0	0	0	1	6	7,25
+A181	AS Falto	Foto_Fantacalcio/Palomino.jpg	JOSE	PALOMINO	31	Difensore	2	0	0	0	0	0	0	0	5,5	5,5
+G218	AS Falto	Foto_Fantacalcio/Perin.jpg	MATTIA	PERIN	29	Portiere	2	0	0	0	0	0	5	0	7	4,5
+S287	AS Falto	Foto_Fantacalcio/ramirez.jpg	GASTON	RAMIREZ	31	Centrocampista	2	0	0	0	0	0	0	0	7	7
+M169	AS Falto	Foto_Fantacalcio/Rodriguez.jpg	RICARDO	RODRIGUEZ	38	Difensore	2	0	0	0	0	0	0	0	6,25	6,25
+J294	AS Falto	Foto_Fantacalcio/Rugani.jpg	DANIELE	RUGANI	35	Difensore	2	0	0	0	0	0	0	0	5,5	5,5
+J622	AS Falto	Foto_Fantacalcio/Sandro.jpg	ALEX	SANDRO	32	Difensore	1	0	0	0	0	0	0	0	6	6
+S492	AS Falto	Foto_Fantacalcio/Silvestre.png	MATIAS	SILVESTRE	33	Difensore	1	0	1	0	0	0	0	0	6,5	6
+L085	Birrareal	Foto_Fantacalcio/alberto.jpg	LUIS	ALBERTO	38	Centrocampista	1	0	0	0	0	0	0	0	6,5	6,5
+A316	Birrareal	Foto_Fantacalcio/Berisha.jpg	ETRIT	BERISHA	32	Portiere	1	0	0	0	0	0	0	0	6	6
+M286	Birrareal	Foto_Fantacalcio/Bonucci.jpg	LEONARDO	BONUCCI	36	Difensore	2	0	0	0	0	0	0	0	6,25	6,25
+F002	Birrareal	Foto_Fantacalcio/chiesa.jpg	FEDERICO	CHIESA	36	Centrocampista	2	0	1	0	0	0	0	0	6	5,75
+D322	Birrareal	Foto_Fantacalcio/DeVrij.jpg	STEFAN	DE VRIJ	27	Difensore	1	0	0	0	0	0	0	0	6	6
+B713	Birrareal	Foto_Fantacalcio/dzemaili.jpg	BLERIM	DZEMAILI	36	Centrocampista	1	0	0	0	0	0	0	0	6	6
+F532	Birrareal	Foto_Fantacalcio/falcinelli.jpg	DIEGO	FALCINELLI	35	Attaccante	2	0	0	0	0	0	0	0	5,5	5,5
+C115	Birrareal	Foto_Fantacalcio/hetemaj.jpg	PERPARIM	HETEMAJ	26	Centrocampista	2	0	0	0	0	0	0	1	6	7,5
+C123	Birrareal	Foto_Fantacalcio/inglese.jpg	ROBERTO	INGLESE	24	Attaccante	1	0	0	0	0	0	0	0	6	6
+C896	Birrareal	Foto_Fantacalcio/Martella.jpg	BRUNO	MARTELLA	31	Difensore	2	0	0	0	0	0	0	0	5,75	5,75
+T288	Birrareal	Foto_Fantacalcio/Nkoulou.jpg	NICOLAS	N'KOULOU	31	Difensore	2	0	0	0	0	1	0	0	6	4,5
+I704	Birrareal	Foto_Fantacalcio/perisic.jpg	IVAN	PERISIC	31	Centrocampista	2	3	0	0	0	0	0	0	7,25	8,75
+F061	Birrareal	Foto_Fantacalcio/simeone.jpg	GIOVANNI	SIMEONE	33	Attaccante	2	0	0	0	0	0	0	0	6,25	6,25
+C413	Birrareal	Foto_Fantacalcio/Sorrentino.jpg	STEFANO	SORRENTINO	28	Portiere	2	0	0	0	0	0	5	0	5,75	3,25
+U315	Birrareal	Foto_Fantacalcio/Larsen.jpg	JENS	STRYGER LARSEN	25	Difensore	1	0	0	0	0	0	0	0	6	6
+C789	Birrareal	Foto_Fantacalcio/trotta.jpg	MARCELLO	TROTTA	29	Attaccante	2	0	0	0	0	0	0	0	6,25	6,25
+B376	Birrareal	Foto_Fantacalcio/Verdi.jpg	SIMONE	VERDI	35	Centrocampista	2	0	0	0	0	0	0	0	6,25	6,25
+G493	Birrareal	Foto_Fantacalcio/Zukanovic.jpg	ERVIN	ZUKANOVIC	27	Difensore	1	0	0	0	0	0	0	0	5,5	5,5
+N388	Hertha Vernello	Foto_Fantacalcio/Albiol.jpg	RAÚL	ALBIOL	30	Difensore	2	0	1	0	0	0	0	0	6	5,75
+F252	Hertha Vernello	Foto_Fantacalcio/Biraghi.jpg	CRISTIANO	BIRAGHI	22	Difensore	2	0	0	0	0	0	0	0	5,5	5,5
+L287	Hertha Vernello	Foto_Fantacalcio/Caceres.png	MARTIN	CACERES	29	Difensore	2	0	0	0	0	0	0	0	6	6
+B472	Hertha Vernello	Foto_Fantacalcio/destro.jpg	MATTIA	DESTRO	34	Attaccante	1	0	0	0	0	0	0	0	5	5
+R647	Hertha Vernello	Foto_Fantacalcio/dzeko.jpg	EDIN	DZEKO	34	Attaccante	1	0	0	0	0	0	0	2	7	13
+T475	Hertha Vernello	Foto_Fantacalcio/falque.jpg	IAGO	FALQUE	29	Attaccante	2	1	0	0	0	0	0	0	6,5	7
+R016	Hertha Vernello	Foto_Fantacalcio/Fazio.jpg	FEDERICO	FAZIO	24	Difensore	2	0	0	0	0	0	0	1	5,75	7,25
+A026	Hertha Vernello	Foto_Fantacalcio/gomez.jpg	ALEJANDRO	GOMEZ 	22	Attaccante	2	1	0	0	0	0	0	1	6,25	8,25
+S027	Hertha Vernello	Foto_Fantacalcio/grassi.jpg	ALBERTO	GRASSI	24	Centrocampista	1	0	0	0	0	0	0	0	6	6
+M850	Hertha Vernello	Foto_Fantacalcio/kessie.jpg	FRANK	KESSIE'	35	Centrocampista	2	0	1	0	0	0	0	0	5,5	5,25
+L999	Hertha Vernello	Foto_Fantacalcio/Lukaku.jpg	JORDAN	LUKAKU	28	Difensore	2	0	0	0	0	0	0	0	6,75	6,75
+S572	Hertha Vernello	Foto_Fantacalcio/Meret.jpg	ALEX	MERET	27	Portiere	1	0	0	0	0	0	0	0	5,5	5,5
+L342	Hertha Vernello	Foto_Fantacalcio/parolo.jpg	MARCO	PAROLO	25	Centrocampista	2	1	0	0	0	0	0	0	6	6,5
+S065	Hertha Vernello	Foto_Fantacalcio/praet.jpg	DENNIS	PRAET	32	Centrocampista	2	0	1	0	0	0	0	1	6	7,25
+I655	Hertha Vernello	Foto_Fantacalcio/Rafinha.jpg	RAFAEL	RAFINHA	33	Centrocampista	1	0	0	0	0	0	0	0	6	6
+M460	Hertha Vernello	Foto_Fantacalcio/Romagnoli.jpg	ALESSIO	ROMAGNOLI	37	Difensore	1	0	0	0	0	0	0	0	6,5	6,5
+F004	Hertha Vernello	Foto_Fantacalcio/Sportiello.png	MARCO	SPORTIELLO	23	Portiere	2	0	0	0	0	0	4	0	5,75	3,75
+F215	Hertha Vernello	Foto_Fantacalcio/veretout.jpg	JORDAN	VERETOUT	37	Centrocampista	1	0	0	0	0	0	0	0	5	5
+R964	Masterchef United	Foto_Fantacalcio/Alisson.jpg	BECKER	ALISSON	26	Portiere	2	0	0	0	0	0	5	0	6,25	3,75
+U172	Masterchef United	Foto_Fantacalcio/barak.jpg	ANTONIN	BARAK	22	Centrocampista	2	0	0	0	0	0	0	0	6,25	6,25
+J931	Masterchef United	Foto_Fantacalcio/Benatia.jpg	MEDHI	BENATIA	34	Difensore	1	0	0	0	0	0	0	0	6	6
+M367	Masterchef United	Foto_Fantacalcio/bonaventura.jpg	GIACOMO	BONAVENTURA	33	Centrocampista	1	0	0	0	0	0	0	0	6,5	6,5
+S958	Masterchef United	Foto_Fantacalcio/caprari.jpg	GIANLUCA	CAPRARI	29	Attaccante	2	0	0	0	0	0	0	2	6,25	9,25
+V273	Masterchef United	Foto_Fantacalcio/Caracciolo.jpg	ANTONIO	CARACCIOLO	29	Difensore	1	0	0	0	0	0	0	0	5,5	5,5
+J288	Masterchef United	Foto_Fantacalcio/Chiellini.jpg	GIORGIO	CHIELLINI	33	Difensore	2	0	0	0	0	0	0	0	6,25	6,25
+J220	Masterchef United	Foto_Fantacalcio/douglascosta.jpg	DOUGLAS	COSTA	26	Centrocampista	1	0	0	0	0	0	0	0	6,5	6,5
+N140	Masterchef United	Foto_Fantacalcio/Hysaj.jpg	ELSEID	HYSAJ	31	Difensore	0	0	0	0	0	0	0	0	0	0
+L785	Masterchef United	Foto_Fantacalcio/immobile.jpg	CIRO	IMMOBILE	37	Attaccante	2	0	0	0	0	0	0	2	7	10
+M652	Masterchef United	Foto_Fantacalcio/kalinic.jpg	NIKOLA	KALINIC	31	Attaccante	2	0	0	0	0	0	0	0	5,75	5,75
+J299	Masterchef United	Foto_Fantacalcio/Khedira.jpg	SAMI	KHEDIRA	29	Centrocampista	1	0	0	0	0	0	0	0	5,5	5,5
+L209	Masterchef United	Foto_Fantacalcio/leiva.jpg	LUCAS	LEIVA	24	Centrocampista	2	0	0	0	0	0	0	0	6	6
+R459	Masterchef United	Foto_Fantacalcio/Manolas.jpg	KOSTANTINOS	MANOLAS	25	Difensore	1	0	0	0	0	0	0	0	5	5
+C301	Masterchef United	Foto_Fantacalcio/Padoin.jpg	SIMONE	PADOIN	23	Difensore	2	0	0	0	0	0	0	0	6,5	6,5
+C247	Masterchef United	Foto_Fantacalcio/pavoletti.jpg	LEONARDO	PAVOLETTI	38	Attaccante	1	0	0	0	0	0	0	0	6,5	6,5
+J469	Masterchef United	Foto_Fantacalcio/pjanic.jpg	MIRALEM	PJANIC	27	Centrocampista	2	1	1	0	0	0	0	0	6	6,25
+T179	Masterchef United	Foto_Fantacalcio/Sirigu.png	SALVATORE	SIRIGU	35	Portiere	2	0	0	0	0	0	0	0	6,75	6,75
+C111	Real Maspritz	Foto_Fantacalcio/Birsa.jpg	VALTER	BIRSA	25	Centrocampista	2	1	1	0	0	0	0	0	6,75	7
+J282	Real Maspritz	Foto_Fantacalcio/Buffon.png	GIANLUIGI	BUFFON	36	Portiere	2	0	0	0	0	0	6	0	5,5	2,5
+C099	Real Maspritz	Foto_Fantacalcio/Cacciatore.jpg	FABRIZIO	CACCIATORE	27	Difensore	2	0	0	0	0	0	0	0	5,75	5,75
+I310	Real Maspritz	Foto_Fantacalcio/Cancelo.jpg	JOAO	CANCELO	36	Difensore	2	0	0	0	0	0	0	0	6,25	6,25
+S780	Real Maspritz	Foto_Fantacalcio/Cionek.jpg	THIAGO	CIONEK	26	Difensore	1	1	0	0	0	0	0	1	7,5	11,5
+A779	Real Maspritz	Foto_Fantacalcio/cristante.jpg	BRYAN	CRISTANTE	25	Centrocampista	2	0	0	0	0	0	0	2	6,5	9,5
+T487	Real Maspritz	Foto_Fantacalcio/DeSilvestri.png	LORENZO	DE SILVESTRI	32	Difensore	1	1	0	0	0	0	0	0	7	8
+R795	Real Maspritz	Foto_Fantacalcio/elshaarawy.jpg	STEPHAN	EL SHAARAWY	35	Attaccante	2	0	0	0	0	0	0	0	5,75	5,75
+J408	Real Maspritz	Foto_Fantacalcio/higuain.jpg	GONZALO	HIGUAIN	24	Attaccante	2	1	0	0	0	0	0	0	6,25	6,75
+U987	Real Maspritz	Foto_Fantacalcio/jankto.jpg	JAKUB	JANKTO	38	Centrocampista	2	1	0	0	0	0	0	0	6	6,5
+S263	Real Maspritz	Foto_Fantacalcio/lazzari.jpg	MANUEL	LAZZARI	23	Centrocampista	2	0	1	0	0	0	0	1	6	7,25
+J312	Real Maspritz	Foto_Fantacalcio/mandzukic.jpg	MARIO	MANDZUKIC	25	Attaccante	1	0	0	0	0	0	0	0	7	7
+N410	Real Maspritz	Foto_Fantacalcio/mertens.jpg	DRIES	MERTENS	23	Attaccante	2	1	0	0	0	0	0	2	7,25	10,75
+U790	Real Maspritz	Foto_Fantacalcio/Samir.jpg	CAETANO	SAMIR	27	Difensore	2	0	0	0	0	0	0	0	6,25	6,25
+G078	Real Maspritz	Foto_Fantacalcio/Spolli.jpg	NICOLAS	SPOLLI	28	Difensore	1	0	1	0	0	0	0	0	5,5	5
+L934	Real Maspritz	Foto_Fantacalcio/Strakosha.png	THOMAS	STRAKOSHA	30	Portiere	2	0	0	0	0	0	3	0	6,5	5
+S631	Real Maspritz	Foto_Fantacalcio/viviani.jpg	FEDERICO	VIVIANI	25	Centrocampista	2	0	1	0	0	0	0	0	7,25	7
+N152	Real Maspritz	Foto_Fantacalcio/zielinski.jpg	PIOTR	ZIELINSKI	27	Centrocampista	2	2	0	0	0	0	0	1	7	9,5
+C870	Scarsenal	Foto_Fantacalcio/barella.jpg	NICOLO'	BARELLA	22	Centrocampista	2	0	0	0	0	0	0	0	6,5	6,5
+J184	Scarsenal	Foto_Fantacalcio/bernardeschi.jpg	FEDERICO	BERNARDESCHI	28	Centrocampista	1	0	0	0	0	0	0	0	6	6
+M194	Scarsenal	Foto_Fantacalcio/calhanoglu.jpg	HAKAN	CALHANOGLU	34	Centrocampista	2	1	0	0	0	0	0	0	5,75	6,25
+U578	Scarsenal	Foto_Fantacalcio/Danilo.jpg	LARANGEIRA	DANILO	26	Difensore	2	0	0	1	0	0	0	0	5,25	4,75
+J309	Scarsenal	Foto_Fantacalcio/dybala.jpg	PAULO	DYBALA	23	Attaccante	1	0	0	0	0	0	0	6	8,5	26,5
+I250	Scarsenal	Foto_Fantacalcio/Handanovic.jpg	SAMIR	HANDANOVIC	22	Portiere	2	0	1	0	0	0	4	0	5,75	3,5
+A130	Scarsenal	Foto_Fantacalcio/Hateboer.jpg	HANS	HATEBOER	30	Difensore	1	0	0	0	0	0	0	0	6	6
+N409	Scarsenal	Foto_Fantacalcio/insigne.jpg	LORENZO	INSIGNE	24	Attaccante	2	1	0	0	0	0	0	0	6,5	7
+G939	Scarsenal	Foto_Fantacalcio/lapadula.jpg	GIANLUCA	LAPADULA	25	Attaccante	2	0	0	0	0	0	0	0	6,25	6,25
+J306	Scarsenal	Foto_Fantacalcio/matuidi.jpg	BLAISE	MATUIDI	30	Centrocampista	2	0	0	0	0	0	0	0	6,75	6,75
+L645	Scarsenal	Foto_Fantacalcio/Savic.jpg	SERGEJ	MILINKOVIC-SAVIC	22	Centrocampista	2	0	0	0	0	0	0	1	6,75	8,25
+T552	Scarsenal	Foto_Fantacalcio/Moretti.jpg	EMILIANO	MORETTI	34	Difensore	2	0	1	0	0	0	0	0	6	5,75
+U280	Scarsenal	Foto_Fantacalcio/Nuytinck.jpg	BRAN	NUYTINCK	23	Difensore	2	0	0	0	0	0	0	2	6,25	9,25
+V621	Scarsenal	Foto_Fantacalcio/Romulo.jpg	SOUZA	ROMULO	28	Difensore	2	0	0	0	0	0	0	0	6,5	6,5
+I798	Scarsenal	Foto_Fantacalcio/Skriniar.jpg	MILAN	SKRINIAR	35	Difensore	2	0	0	0	0	0	0	0	6,5	6,5
+F606	Scarsenal	Foto_Fantacalcio/thereau.jpg	CYRIL	THEREAU	34	Attaccante	1	0	0	0	0	0	0	3	6	15
+S972	Scarsenal	Foto_Fantacalcio/torreira.jpg	LUCAS	TORREIRA	30	Centrocampista	2	0	1	0	0	0	0	1	6,25	7,5
+S484	Scarsenal	Foto_Fantacalcio/Viviano.jpg	EMILIANO	VIVIANO	34	Portiere	1	0	1	0	0	0	0	0	5,5	5
+Id	Squadra	Foto_Fantacalcio/Foto	Nome	Cognome	Età	Ruolo	NPartite_Giocate	Assist	Ammonizioni	Espulsioni	Rigori parati	Rigori Sbagliati	Gol subiti	Gol	Media voto	Fantamedia

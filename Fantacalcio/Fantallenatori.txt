@@ -1,0 +1,9 @@
+Aldo	Aldo1	118
+Andrea	AndreaA	106
+Olga	O1ga	126
+Adriano	Adrian	75
+Mariano	Marian0	99
+Piergiorgio	PierG	12
+Sebastiano	Seba98	83
+Benedetto	Bene99	31
+
