@@ -142,4 +142,3 @@ I798	Scarsenal	Foto_Fantacalcio/Skriniar.jpg	MILAN	SKRINIAR	35	Difensore	2	0	0	0
 F606	Scarsenal	Foto_Fantacalcio/thereau.jpg	CYRIL	THEREAU	34	Attaccante	1	0	0	0	0	0	0	3	6	15
 S972	Scarsenal	Foto_Fantacalcio/torreira.jpg	LUCAS	TORREIRA	30	Centrocampista	2	0	1	0	0	0	0	1	6,25	7,5
 S484	Scarsenal	Foto_Fantacalcio/Viviano.jpg	EMILIANO	VIVIANO	34	Portiere	1	0	1	0	0	0	0	0	5,5	5
-Id	Squadra	Foto_Fantacalcio/Foto	Nome	Cognome	Età	Ruolo	NPartite_Giocate	Assist	Ammonizioni	Espulsioni	Rigori parati	Rigori Sbagliati	Gol subiti	Gol	Media voto	Fantamedia
